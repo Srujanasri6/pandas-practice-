@@ -1,2 +1,2 @@
 # pandas-practice-
-pandas practice csd file
+pandas practice csv file
